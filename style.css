@@ -13,6 +13,8 @@
 	height: 10px;
 	background-color: #000;
 }
+
+/* Keystrokes for lower-case a-z */
 #canvas .color-113 { background-color: #000; }
 #canvas .color-119 { background-color: #111; }
 #canvas .color-101 { background-color: #222; }
@@ -40,3 +42,6 @@
 #canvas .color-110 { background-color: #999; }
 #canvas .color-109 { background-color: #aaa; }
 #canvas .color-113 { background-color: #bbb; }
+
+/* Keystrokes for lower-case a-z */
+#canvas .color-32 { background-color: #fff; }
