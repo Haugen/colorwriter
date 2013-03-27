@@ -1,0 +1,42 @@
+#page-wrapper {
+	text-align: center;
+}
+#canvas {
+	width: 600px;
+	height: 400px;
+	margin: 0 auto;
+	border: 1px solid #999;
+}
+#canvas div {
+	float: left;
+	width: 10px;
+	height: 10px;
+	background-color: #000;
+}
+#canvas .color-113 { background-color: #000; }
+#canvas .color-119 { background-color: #111; }
+#canvas .color-101 { background-color: #222; }
+#canvas .color-114 { background-color: #333; }
+#canvas .color-116 { background-color: #444; }
+#canvas .color-121 { background-color: #555; }
+#canvas .color-117 { background-color: #666; }
+#canvas .color-105 { background-color: #777; }
+#canvas .color-111 { background-color: #888; }
+#canvas .color-112 { background-color: #999; }
+#canvas .color-97 { background-color: #aaa; }
+#canvas .color-115 { background-color: #bbb; }
+#canvas .color-100 { background-color: #ccc; }
+#canvas .color-102 { background-color: #ddd; }
+#canvas .color-103 { background-color: #eee; }
+#canvas .color-104 { background-color: #ccc; }
+#canvas .color-106 { background-color: #111; }
+#canvas .color-107 { background-color: #222; }
+#canvas .color-108 { background-color: #333; }
+#canvas .color-122 { background-color: #444; }
+#canvas .color-120 { background-color: #555; }
+#canvas .color-99 { background-color: #666; }
+#canvas .color-118 { background-color: #777; }
+#canvas .color-98 { background-color: #888; }
+#canvas .color-110 { background-color: #999; }
+#canvas .color-109 { background-color: #aaa; }
+#canvas .color-113 { background-color: #bbb; }
