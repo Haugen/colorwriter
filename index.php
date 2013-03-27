@@ -12,6 +12,8 @@
 		<div id="page-wrapper">
 			<h1>Color typewriter</h1>
 
+			<p>Use lowercase a-z to start painting. You can use 'space' to add a white box.</p>
+
 			<div id="canvas">
 
 			</div>
