@@ -5,8 +5,6 @@ $(document).ready(function() {
 		106, 107, 108, 122, 120, 99, 118, 98, 110, 109, 113, 32
 	);
 
-	console.log(avalibleKeys);
-
 	$(window).keypress(function(e) {
 		if ($.inArray(e.which, avalibleKeys) != -1) {
 			keystroke(e.which);
